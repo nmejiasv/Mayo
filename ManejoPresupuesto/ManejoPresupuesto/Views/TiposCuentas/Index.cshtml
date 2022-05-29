@@ -6,13 +6,13 @@
 }
 
 <h1>Tipos cuentas</h1>
-<h5>El tipo cuentas se refiere a como agregar cuentas.
-    Ejemplo: Prestamos, Efectivo, Tarjetas de Credito]
-</h5>
+
+<h5>Tipo cuentas PARA agregar nombre de cuentas</h5>
 
 <a asp-action="Crear" class="btn btn-primary mb-3">Crear nuevo</a>
 
-<table class = "table">
+
+<table id="mytable" class = "table">
     <thead>
         <tr>
             <th>Nombre</th>
@@ -73,5 +73,11 @@
                   });
               }
           })
+      </script>
+
+      <script type="text/javascript">
+          $(document).ready( function () {
+            $('#mytable').DataTable();
+         } );
       </script>
   }
