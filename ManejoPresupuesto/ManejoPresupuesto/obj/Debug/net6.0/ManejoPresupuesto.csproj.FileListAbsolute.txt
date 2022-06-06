@@ -60,3 +60,5 @@ C:\ASPCORE\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib
 C:\ASPCORE\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\ASPCORE\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.csproj.CopyComplete
 C:\ASPCORE\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\Views\Cuentas\Index.cshtml.rz.scp.css
+C:\ASPCORE\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.dll
+C:\ASPCORE\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
